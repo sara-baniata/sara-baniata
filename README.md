@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:<a href="mailto:sarahbaniatta@gmail.com">sarahbaniatta@gmail.com</a>
 ### Connect with me:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+
+ 
 ### Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
