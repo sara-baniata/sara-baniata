@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ethical hacking methodology, attack Lifecycle, and vulnerability Assessment
 - 📫 How to reach me:<a href="mailto:sarahbaniatta@gmail.com">sarahbaniatta@gmail.com</a>
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarah-baniata-77517b21a/)
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 ### Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
